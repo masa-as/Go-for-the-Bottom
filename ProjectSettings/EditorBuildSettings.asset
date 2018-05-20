@@ -17,3 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameStart.unity
     guid: deb6d57e09cea4a12bc1f150a31c2c9a
+  - enabled: 1
+    path: Assets/Game2.unity
+    guid: d327b9b0364074b2c8413f60e41572ea

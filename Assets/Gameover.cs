@@ -15,5 +15,9 @@ public class Gameover : MonoBehaviour {
 		if (Input.GetKeyDown ("return")) {
 			SceneManager.LoadScene ("Game");
 		}
+		if (Input.GetKeyDown ("c")) {
+			SceneManager.LoadScene ("Game2");
+		}
+
 	}
 }
