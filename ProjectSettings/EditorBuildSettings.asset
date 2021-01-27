@@ -6,17 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GameOver.unity
-    guid: 8e71ab7d290674052b0881ad402d42a7
-  - enabled: 1
-    path: Assets/GameClear.unity
-    guid: 88cf029d9d3f34d8791eb0a04aa2a41f
-  - enabled: 1
-    path: Assets/Game.unity
-    guid: 88d551fc5fefe4ca8a8b49a11618074b
-  - enabled: 1
-    path: Assets/GameStart.unity
+    path: Assets/Scenes/GameStart.unity
     guid: deb6d57e09cea4a12bc1f150a31c2c9a
   - enabled: 1
-    path: Assets/Game2.unity
+    path: Assets/Scenes/Game.unity
+    guid: 88d551fc5fefe4ca8a8b49a11618074b
+  - enabled: 1
+    path: Assets/Scenes/Crazy.unity
     guid: d327b9b0364074b2c8413f60e41572ea
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 8e71ab7d290674052b0881ad402d42a7
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: 88cf029d9d3f34d8791eb0a04aa2a41f
+  m_configObjects: {}
