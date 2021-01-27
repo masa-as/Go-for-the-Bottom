@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c749a28355754efd968233521c1e142
+timeCreated: 1526809777
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UnityChan: {fileID: 1147703717443388, guid: 4b6ed2f3c6160452b82ba214915999fd,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
